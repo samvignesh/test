@@ -5,7 +5,8 @@ def add(a, b):
 def subtract(a, b):
     return a - b
 
-x = 10
+x = 50
+
 y = 5
 
 print("Addition:", add(x, y))
